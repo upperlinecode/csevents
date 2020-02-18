@@ -26,7 +26,6 @@ a:hover {
 
 html,
 body {
-  height: 100%;
   background-color: #333;
 }
 
@@ -104,4 +103,9 @@ body {
  */
 .mastfoot {
   color: rgba(255, 255, 255, .5);
+}
+
+img {
+  margin-top: 50px;
+  margin-bottom: 20px;
 }
