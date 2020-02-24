@@ -56,6 +56,10 @@ h1 {
   font-family: 'Montserrat', sans-serif;
 }
 
+#nyc {
+  color:#7fcd91;
+}
+
 .section1 {
   background-image: url('./images/csevents-img.jpg');
   background-size: cover;
